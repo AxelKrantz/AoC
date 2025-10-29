@@ -1,0 +1,101 @@
+Prompt 1:
+<environment_context>
+  <cwd>/Users/axelkrantz/Documents/AoC</cwd>
+  <approval_policy>on-request</approval_policy>
+  <sandbox_mode>workspace-write</sandbox_mode>
+  <network_access>restricted</network_access>
+  <shell>zsh</shell>
+</environment_context>
+
+Prompt 2:
+Generate a file named AGENTS.md that serves as a contributor guide for this repository.
+Your goal is to produce a clear, concise, and well-structured document with descriptive headings and actionable explanations for each section.
+Follow the outline below, but adapt as needed — add sections if relevant, and omit those that do not apply to this project.
+
+Document Requirements
+
+- Title the document "Repository Guidelines".
+- Use Markdown headings (#, ##, etc.) for structure.
+- Keep the document concise. 200-400 words is optimal.
+- Keep explanations short, direct, and specific to this repository.
+- Provide examples where helpful (commands, directory paths, naming patterns).
+- Maintain a professional, instructional tone.
+
+Recommended Sections
+
+Project Structure & Module Organization
+
+- Outline the project structure, including where the source code, tests, and assets are located.
+
+Build, Test, and Development Commands
+
+- List key commands for building, testing, and running locally (e.g., npm test, make build).
+- Briefly explain what each command does.
+
+Coding Style & Naming Conventions
+
+- Specify indentation rules, language-specific style preferences, and naming patterns.
+- Include any formatting or linting tools used.
+
+Testing Guidelines
+
+- Identify testing frameworks and coverage requirements.
+- State test naming conventions and how to run tests.
+
+Commit & Pull Request Guidelines
+
+- Summarize commit message conventions found in the project’s Git history.
+- Outline pull request requirements (descriptions, linked issues, screenshots, etc.).
+
+(Optional) Add other sections if relevant, such as Security & Configuration Tips, Architecture Overview, or Agent-Specific Instructions.
+
+Prompt 3:
+Also, PLEASE add a note about warning me if you belive that we are starting to use way to many tokens. I dont want to drain my companys account
+
+Prompt 4:
+Alright, lets go for solving the first task of 2015. https://adventofcode.com/2015
+
+Prompt 5:
+Go ahead, but also figure out how to get the puzzle inputs
+
+Prompt 6:
+Before we do anything else: Create a file in the repo named "PromptLog" where we keep a full of log what I write to you, including previous messages and this as well. This must be updated first after EVERY prompt from me. You are never allowed to delete from this file, only append
+
+Prompt 7:
+Install dependencies and then tell me what you need to be able to login and get the AOC pussle inputs as well as submit the results after you have ran the coded solution
+
+Prompt 8:
+You may access the internet ONLY to speak to the adventofcode website. Here is my session cookie 53616c7465645f5f6f6de84b00c8b4a55491632854f25e59bb7257e190ce2f0ca5ad0d44f74e53cc6e332919fc1e42862ec7aae46e4fa57cefafba69943d46c7
+
+Prompt 9:
+I would like to run the command that you suggested above and you may install dependencies
+
+Prompt 10:
+next steps sound good
+
+Prompt 11:
+go
+
+Prompt 12:
+do 1
+
+Prompt 13:
+Do you have the proper tooling to complete day 2-5 without asking me any more questions?
+
+Prompt 14:
+Go ahead, dont disturb me unless it has to do with token usage. I basically want your next  message to be saying "Jobs done" when day 2-5 are finished.
+
+Prompt 15:
+Have you submitted them?
+
+Prompt 16:
+submit the answers, dont ask me about this in the future unless you have failed several times on the same task
+
+Prompt 17:
+You are allowed to submit the answers, go ahead for each
+
+Prompt 18:
+Do day 6-10
+
+Prompt 19:
+Go to 2024 and complete day 1-5. You are allowed to run the commands for fetching the data and submitting the data using the session cookie
