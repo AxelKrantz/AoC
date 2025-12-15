@@ -1,3 +1,0 @@
-# Pending Advent of Code 2024 submissions
-
-# day, part, answer

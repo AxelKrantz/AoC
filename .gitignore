@@ -10,3 +10,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Puzzle artifacts (inputs and downloaded pages)
+inputs/
+responses/
